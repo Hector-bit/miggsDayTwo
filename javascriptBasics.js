@@ -36,8 +36,10 @@ arr_nums = [2, 4, 6, 8, 10, 13, 14, 165, 1 ,34,51,134, 5,134,15,1, 12,3465,16,41
 //   let alex_car= arr_car[j]
 //   console.log (alex_car)
 // }
+const fruits = ["Banana", "Orange", "Apple", "Mango"];f
+fruits.shift();
 
-
+// const fruits = ["Banana", "Orange", "Apple", "Mango"];
 for(let i =0; i < arr_nums.length; i++){
   let alexnumm = arr_nums[i] -1
   console.log(alexnumm)
