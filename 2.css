@@ -1,0 +1,14 @@
+.rectangle{
+    height: 289px;
+    width: 388px;
+    background-color:#E3EEB6;
+    top: 166px;
+    left: 249px;
+    border-radius: 22px;
+    border: 3px solid black;
+
+}
+.frog{
+    max-width: 388px;
+    max-height: 289px;
+}
